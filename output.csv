@@ -1,4 +1,4 @@
-,code,name,lat,long,tambon,amphoe,province,basin,region,station_type
+index,code,name,lat,long,tambon,amphoe,province,basin,region,station_type
 0,MEWG  ,อบต.บ้านกาด,18.6039136,98.7984384,บ้านกาด,แม่วาง,เชียงใหม่,แม่น้ำปิง,ภาคเหนือ,R
 1,SKPG  ,รร.อนุบาล ทต.สันกำแพง,18.7528928,99.1277824,สันกำแพง,สันกำแพง,เชียงใหม่,แม่น้ำปิง,ภาคเหนือ,R
 2,WGHG  ,อบต.เปียงหลวง,19.6492448,98.6348352,เปียงหลวง,เวียงแหง,เชียงใหม่,แม่น้ำปิง,ภาคเหนือ,R
